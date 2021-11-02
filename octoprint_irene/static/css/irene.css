@@ -1,0 +1,14 @@
+.big-box {
+    width: 100%;
+    margin: auto;
+}
+
+
+.box {
+    float: left;
+    padding: 4px;
+}
+
+.clear {
+    clear: left;
+}
